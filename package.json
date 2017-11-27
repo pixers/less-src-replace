@@ -1,11 +1,11 @@
 {
   "name": "less-src-replace",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "description": "LESS plugin to copy all src files into one flatten structure.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/miloszsobczak/less-src-replace"
+    "url": "https://github.com/pixers/less-src-replace"
   },
   "dependencies": {
     "mkdirp": "0.5.1",
